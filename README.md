@@ -22,7 +22,7 @@ Se você tiver dúvidas sobre o conteúdo ou encontrar problemas com o código, 
 
 ## Exemplo de Imagem de Satélite 🛰️
 
-Neste curso, utilizamos a imagem de satélite Landsat 9 como exemplo para demonstrar a manipulação de dados raster. Você pode baixar a imagem usada nos exemplos neste [link](https://example.com/landsat8_image.tif).
+Neste curso, utilizamos a imagem de satélite Landsat 9 como exemplo para demonstrar a manipulação de dados raster. Você pode baixar a imagem usada nos exemplos neste [link](https://drive.google.com/file/d/1nwpkpH51oyrzq_eDxAO0xeurb589padO/view?usp=drive_link).
 
 ## Redes Sociais 🌐
 
