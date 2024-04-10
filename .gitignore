@@ -1,0 +1,12 @@
+# Arquivos de compilação
+*.o
+*.pyc
+*.class
+
+# Arquivos temporários
+*~
+.DS_Store
+
+# Diretórios
+imagens/
+.venv/
